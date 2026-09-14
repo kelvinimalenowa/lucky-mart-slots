@@ -4,7 +4,7 @@ Lucky Mart Slots is a simple, interactive slot machine game built with HTML, CSS
 
 I built this project to practice JavaScript fundamentals including functions, arrays, conditionals, event listeners, DOM manipulation, and generating random values.
 
-[Play Lucky Mart](https://delightful-basbousa-a6013c.netlify.app/)
+[Play Lucky Mart Slots](https://delightful-basbousa-a6013c.netlify.app/)
 
 ## 📸 Project Preview
 
